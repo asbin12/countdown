@@ -46,6 +46,7 @@ body {
   line-height: 28px;
   font-weight: 400;
   color: white;
+  outline: none;
 }
 .form--input--label label {
   font-family: "Lato", sans-serif;
