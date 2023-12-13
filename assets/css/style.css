@@ -1,14 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap");
 /* font-family: 'Lato', sans-serif; */
 body {
-  background-image: url("/CountDown/assets/img/christmas.jpg");
-  /* padding: 100px; */
-  background-position: contain;
-  background-size: cover;
+  background-image: url("/assets/img/christmas.jpg");
+  padding: 100px;
+  /* background-position: contain; */
+  /* background-size: cover; */
   /* object-fit: cover; */
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
   /* margin: 0 0 */
-  height: 100vh;
+  /* height: 100vh; */
 }
 .container {
   max-width: 1280px;
